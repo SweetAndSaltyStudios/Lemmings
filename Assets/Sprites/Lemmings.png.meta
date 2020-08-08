@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: d2ef32416273723428a41546985af454
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2418336742231452339
+    second: Lemmings_0
+  - first:
+      213: 4275752507927251939
+    second: Lemmings_1
+  - first:
+      213: -4993923069630238273
+    second: Lemmings_2
+  - first:
+      213: -2423934536034254532
+    second: Lemmings_3
+  - first:
+      213: -6640146452915465404
+    second: Lemmings_4
+  - first:
+      213: 2160110926724505307
+    second: Lemmings_5
+  - first:
+      213: -8326834286996224169
+    second: Lemmings_6
+  - first:
+      213: -4981364418179180214
+    second: Lemmings_7
+  - first:
+      213: 3080475107108533784
+    second: Lemmings_8
+  - first:
+      213: 5372809893170686597
+    second: Lemmings_9
+  - first:
+      213: 3660329754633767519
+    second: Lemmings_10
+  - first:
+      213: -390871674008267359
+    second: Lemmings_11
+  - first:
+      213: 5159516208826569214
+    second: Lemmings_12
+  - first:
+      213: -4525531600801226880
+    second: Lemmings_13
+  - first:
+      213: -4920783583633704176
+    second: Lemmings_14
+  - first:
+      213: -7084582615423321597
+    second: Lemmings_15
+  - first:
+      213: -3873073748224895062
+    second: Lemmings_16
+  - first:
+      213: -110707565730155958
+    second: Lemmings_17
+  - first:
+      213: -3538535239739105932
+    second: Lemmings_18
+  - first:
+      213: 3745138894851278928
+    second: Lemmings_19
+  - first:
+      213: -1188457900374118509
+    second: Lemmings_20
+  - first:
+      213: 9006558431647428095
+    second: Lemmings_21
+  - first:
+      213: -2519526854293531917
+    second: Lemmings_22
+  - first:
+      213: 7643321096773301723
+    second: Lemmings_23
+  - first:
+      213: 6539096330646838292
+    second: Lemmings_24
+  - first:
+      213: -802113535907854702
+    second: Lemmings_25
+  - first:
+      213: 3942027853422507023
+    second: Lemmings_26
+  - first:
+      213: -858981401885388123
+    second: Lemmings_27
+  - first:
+      213: 8604738372185031937
+    second: Lemmings_28
+  - first:
+      213: 7859310874738622277
+    second: Lemmings_29
+  - first:
+      213: 1524452452950471256
+    second: Lemmings_30
+  - first:
+      213: -7588088923840565131
+    second: Lemmings_31
+  - first:
+      213: 995782551812087063
+    second: Lemmings_32
+  - first:
+      213: 9099187855549865301
+    second: Lemmings_33
+  - first:
+      213: 8145699537855954600
+    second: Lemmings_34
+  - first:
+      213: 6127157981595823307
+    second: Lemmings_35
+  - first:
+      213: -2515853755663019788
+    second: Lemmings_36
+  - first:
+      213: -3463814764623815206
+    second: Lemmings_37
+  - first:
+      213: -1116814683186905159
+    second: Lemmings_38
+  - first:
+      213: 3683258118841951349
+    second: Lemmings_39
+  - first:
+      213: 3082190481178189156
+    second: Lemmings_40
+  - first:
+      213: 4960367967840388502
+    second: Lemmings_41
+  - first:
+      213: 7468094792675387256
+    second: Lemmings_42
+  - first:
+      213: -4798305145134950162
+    second: Lemmings_43
+  - first:
+      213: -91773487758560182
+    second: Lemmings_44
+  - first:
+      213: -3683152150547702771
+    second: Lemmings_45
+  - first:
+      213: 6450429586091818074
+    second: Lemmings_46
+  - first:
+      213: -7335249108494823178
+    second: Lemmings_47
+  - first:
+      213: 8112670378613119384
+    second: Lemmings_48
+  - first:
+      213: 789892826955497031
+    second: Lemmings_49
+  - first:
+      213: -341072213200340709
+    second: Lemmings_50
+  - first:
+      213: -7901173130076495145
+    second: Lemmings_51
+  - first:
+      213: 2228515739814046157
+    second: Lemmings_52
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lemmings_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7118528c09372814582d1abb052faa22
+      internalID: 2418336742231452339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 171
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5af98fa3e1c8c43b4077ad3c1924da
+      internalID: 4275752507927251939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 171
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb24822c7ff4e8449927376750745532
+      internalID: -4993923069630238273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a0af49e56d0fa47b404f065ffcd894
+      internalID: -2423934536034254532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 171
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f2cac5ac206c141b70032893ee9c9b
+      internalID: -6640146452915465404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 171
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d7ce46a5aca044093924ca32422de3
+      internalID: 2160110926724505307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 171
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d751ecd459e115145aba7d8966c2de2e
+      internalID: -8326834286996224169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 171
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2d8645308e5fa4cbf531e90371243a
+      internalID: -4981364418179180214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 11
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657480f2b5383e54cbfd5752e7e1f64c
+      internalID: 3080475107108533784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 10
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1c00b07e8050408cb244731e74aac
+      internalID: 5372809893170686597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6671296edb23d64a80aacd88cfe13b9
+      internalID: 3660329754633767519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 156
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3095de4bed3f024bb596398cda817ce
+      internalID: -390871674008267359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 156
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505bd18df8adbf94ebcdaf9ccc4c606c
+      internalID: 5159516208826569214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6228c164353d5674a84752616aa3d3f4
+      internalID: -4525531600801226880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 141
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268dfc00a6c2fec4bbc5d0cd645d28a5
+      internalID: -4920783583633704176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 141
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5905ec586bcf1140abe93c86db87684
+      internalID: -7084582615423321597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 141
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca587e806cf871e418e47b675bd1b046
+      internalID: -3873073748224895062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 141
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9485aa7c7f364244a9f1b913c518aa9e
+      internalID: -110707565730155958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 141
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddddeca0096d8d4789315c83a6bcfde
+      internalID: -3538535239739105932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 141
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc7caab04d4ef24997b2f00c451eb68
+      internalID: 3745138894851278928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 141
+        width: 11
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aec9fbda81e0124abad387e2b0c7f84
+      internalID: -1188457900374118509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 140
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1463984c7aaf549b4893fc7ff917b1
+      internalID: 9006558431647428095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f8c4fc99e85434db89c99baf33d2a9
+      internalID: -2519526854293531917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 122
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e193a233709d54ebf0ec6df219a123
+      internalID: 7643321096773301723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 122
+        width: 13
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8ce74e21a586140a26e1d7c3c071b0
+      internalID: 6539096330646838292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 122
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463664fe836d4d24bbeefc8a3c2019ed
+      internalID: -802113535907854702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 122
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b950cbbe2c062141a51ef9de078b6b9
+      internalID: 3942027853422507023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 122
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120cddc25b5fc164fb935e0e2a9f3521
+      internalID: -858981401885388123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 122
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8358fbf73465cab4e839f207e63842b3
+      internalID: 8604738372185031937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 118
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7172f517a58ab84196903b6c2939753
+      internalID: 7859310874738622277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78112e9d4ae6204f967bbd361b2b24a
+      internalID: 1524452452950471256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 105
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b0626ed515f144b6232aa2d3ce7ce
+      internalID: -7588088923840565131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 105
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef79f154cfb9c1f4bafff9d44ef84858
+      internalID: 995782551812087063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 102
+        width: 18
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debf849375aea9d4b84993ed043bff62
+      internalID: 9099187855549865301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 108
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f67306a12008c429ca66d95da5126d
+      internalID: 8145699537855954600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 91
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9027587b5d3ea0b4394f5c4fa2e6cf20
+      internalID: 6127157981595823307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 15
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e452e95de2c5c074ca14b16992d80fd7
+      internalID: -2515853755663019788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 53
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee852fa5a9db1e47b707e1210e47fb0
+      internalID: -3463814764623815206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 28
+        width: 15
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e2f6d692847cb48a4bb3547964a465
+      internalID: -1116814683186905159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b876b3cca19f072498e8324661dc9bf8
+      internalID: 3683258118841951349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce77e94fc1e1a4da4e794f4a6bbc8b
+      internalID: 3082190481178189156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 156
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3ab39e94a88d45805da99d22ae028
+      internalID: 4960367967840388502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 158
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7782d7f407c14ba0307669e8c030c
+      internalID: 7468094792675387256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 158
+        width: 19
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d71014bd20cfc7438b6b9bdf1dd3a07
+      internalID: -4798305145134950162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_44
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 158
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dcbbc829a56a44aad917e4bc60d28f
+      internalID: -91773487758560182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 72
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18164e05da1aa2e4c84a2687d3c5cb18
+      internalID: -3683152150547702771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 78
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a55559ce489c4ab11a3495f4fd4bf
+      internalID: 6450429586091818074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0991f9f8a61f1954cad10503943eddd0
+      internalID: -7335249108494823178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a59a1dce46b743b826b0290f9fb03
+      internalID: 8112670378613119384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 59
+        width: 14
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9344a84ea921b1a4f8c1ed7f726240c0
+      internalID: 789892826955497031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0270e27d444b9184e8ec43f95a9a4ad9
+      internalID: -341072213200340709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 56
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334fcf8d41d30b94cbeb51fa39c5d6d8
+      internalID: -7901173130076495145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lemmings_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 71
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284066bff2fda5448b542eb8310a8477
+      internalID: 2228515739814046157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ccb1938773fd41e45abc500ef0c501ca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
